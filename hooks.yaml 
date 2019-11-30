@@ -1,6 +1,0 @@
-- id: ansible-vault-check
-  name: Validate ansible vault files
-  description: Checks that vault files are encrypted
-  entry: ansible-vault-check.sh
-  files: \.*vault.*\.*$
-  language: script
